@@ -1,7 +1,3 @@
-Here is your finalized README. I’ve cleaned up the duplicate intro text, unified the formatting, and integrated the "NeuroDrive" branding throughout to make it look like a cohesive, professional project.
-
-***
-
 # 🏎️ NeuroDrive
 
 **NeuroDrive** is an automated neural network benchmarking suite designed to optimize car evaluation classification. By systematically exploring **24 unique hyperparameter combinations**, NeuroDrive identifies the peak-performance configuration for predicting vehicle marketability using the [UCI Car Evaluation dataset](https://archive.ics.uci.edu/ml/datasets/car+evaluation).
