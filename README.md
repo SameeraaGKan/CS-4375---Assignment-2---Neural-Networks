@@ -1,4 +1,4 @@
-# Neural Network Analysis – Assignment 2
+# Neural Network Analysis 
 
 ## Overview
 
